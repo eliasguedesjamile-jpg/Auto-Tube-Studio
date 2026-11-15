@@ -1,0 +1,6 @@
+{
+  "name": "Auto Tube Studio",
+  "description": "Estúdio Android para criar vídeos narrados com roteiro por cenas, geração de imagens 16:9 via Gemini, narração integrada e exportação MP4/SRT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

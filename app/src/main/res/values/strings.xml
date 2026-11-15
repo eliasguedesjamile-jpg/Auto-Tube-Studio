@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Auto Tube Studio</string>
+    <string name="nav_home">Início</string>
+    <string name="nav_studio">Estúdio</string>
+    <string name="nav_voice">Voz</string>
+    <string name="nav_explore">Modelos</string>
+    <string name="nav_projects">Projetos</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="cd_hero_banner">Estúdio de produção audiovisual Auto Tube Studio</string>
+    <string name="cd_scene_preview">Prévia 16 por 9 da cena</string>
+    <string name="cd_brand_logo">Logotipo do canal</string>
+    <string name="firebase_ai_notice">Modo Demonstração: A geração de roteiros e imagens via Gemini no Android requer o Firebase AI Logic habilitado. As respostas atuais são amostras rotuladas; você também pode importar imagens próprias da galeria.</string>
+</resources>
